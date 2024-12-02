@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:2/12/2024
+## Register Number:24900212
+## Name:Josipha
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
